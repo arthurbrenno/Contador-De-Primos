@@ -14,7 +14,7 @@ Um algoritmo que calcula e mostra números primos em um dado intervalo.
 ![App Screenshot](https://media.discordapp.net/attachments/1019936202134126593/1031557681946828850/carbon_5.png?width=1014&height=449)
 ## Demonstração
 
-https://youtu.be/m21paTHVnD0
+[https://youtu.be/m21paTHVnD0](https://youtu.be/fAJ2XjDx5SI)
 ## Autor
 
 - [@arthurbrenno](https://github.com/arthurbrenno)
